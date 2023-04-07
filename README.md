@@ -29,3 +29,8 @@ brew install uninstall-cli
    ```
    uninstall /Applications/<name_of_your_evil_app>.app 
    ```
+
+## Usage
+```
+uninstall-cli.sh /Applications/app_name.app
+```
